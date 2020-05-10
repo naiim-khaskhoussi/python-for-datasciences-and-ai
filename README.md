@@ -11,33 +11,34 @@ This course offered by [IBM](https://www.ibm.com/) on [Coursera](https://www.cou
 ## Modules
 
 ### [M1 - Python Basics](https://github.com/naiim-khaskhoussi/python-for-datasciences-and-ai/tree/master/1-python-basics) 
-o	Your first program
-o	Types
-o	Expressions and Variables
-o	String Operations
++ Your first program
++	Types
++	Expressions and Variables
++	String Operations
 
 ### [M2 - Python Data Structures](https://github.com/naiim-khaskhoussi/python-for-datasciences-and-ai/tree/master/2-python-data-structures) 
-o	Lists and Tuples
-o	Sets
-o	Dictionaries
++ Lists and Tuples
++	Sets
++	Dictionaries
 
 ### [M3 - Python Programming Fundamentals](https://github.com/naiim-khaskhoussi/python-for-datasciences-and-ai/tree/master/3-python-programming-fundamentals) 
-o	Conditions and Branching
-o	Loops
-o	Functions
-o	Objects and Classes
++	Conditions and Branching
++	Loops
++	Functions
++	Objects and Classes
 
 ### [M4 - Working with Data in Python Development](https://github.com/naiim-khaskhoussi/python-for-datasciences-and-ai/tree/master/4-working-with-data-in-python) 
-o	Reading files with open
-o	Writing files with open
-o	Loading data with Pandas
-o	Numpy 
++	Reading files with open
++	Writing files with open
++	Loading data with Pandas
++	Numpy 1D
++ Numpy 2D
 
 ### [M5 - Introduction to API](https://github.com/naiim-khaskhoussi/python-for-datasciences-and-ai/tree/master/5-intro-to-api) 
-o	Introduction to Python API
++	Introduction to Python API
 
 ### [M6 - Final Project Test](https://github.com/naiim-khaskhoussi/python-for-datasciences-and-ai/tree/master/6-analysing-us-economic-data) 
-o	Reading files with open
++	Reading files with open
 
 
 
